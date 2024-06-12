@@ -1,5 +1,4 @@
 import React from 'react';
-import { FaVideoSlash } from "react-icons/fa";
 import {Button} from "react-bootstrap";
 import {Container} from "react-bootstrap";
 import Nav from 'react-bootstrap/Nav';
